@@ -1,7 +1,7 @@
 # Basic_Web_Snake_Game
 A typical Snake where u collect apples and get longer while earning points which are saved to localstorage.
 First when u load into the game u choose the difficulty level.
-There are soung effects and background music made from free assets.
+There are sound effects and background music made from free assets.
 
 Technologies used:
 -Html
