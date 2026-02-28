@@ -71,7 +71,7 @@ function move() {
   ) {
     clearInterval(interval);
     bgmusic.pause()
-    alert("Przegrałeś");
+    alert("You lose");
     location.reload();
     return;
   }
